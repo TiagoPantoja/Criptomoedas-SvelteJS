@@ -1,0 +1,6 @@
+/node_modules/
+
+
+.DS_Store
+
+// Função que retorna o fatorial de um número
